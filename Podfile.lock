@@ -1,0 +1,15 @@
+PODS:
+  - Gecco (1.0.0)
+  - Instructions (1.0.0)
+
+DEPENDENCIES:
+  - Gecco
+  - Instructions (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  Gecco: e662f949821e742997787bad7b730ccc0052e43c
+  Instructions: 11b6744e572b8cab6f61e9445403cb95fcde68f1
+
+PODFILE CHECKSUM: e81f4b77fb16e954a6ed39b154696332874bbbbf
+
+COCOAPODS: 1.4.0
